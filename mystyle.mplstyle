@@ -1,12 +1,13 @@
 figure.figsize   : 12, 12
+figure.titlesize : 24 
 figure.subplot.left    : 0.125  ## the left side of the subplots of the figure
-figure.subplot.right   : 0.9    ## the right side of the subplots of the figure
-figure.subplot.bottom  : 0.11   ## the bottom of the subplots of the figure
-figure.subplot.top     : 0.88 
+figure.subplot.right   : 0.97    ## the right side of the subplots of the figure
+figure.subplot.bottom  : 0.03   ## the bottom of the subplots of the figure
+figure.subplot.top     : 0.90 
 figure.subplot.wspace  : 0.4 
 
-axes.titlesize : 24
-axes.labelsize : 20
+axes.titlesize : 20
+axes.labelsize : 16
 axes.labelpad  : 5
 axes.titlepad  : 7.0
 
@@ -22,5 +23,5 @@ ytick.labelsize : 16
 
 legend.framealpha    : 0
 legend.edgecolor     : 0
-legend.fontsize      : 12
-legend.labelspacing  : 0.2
+legend.fontsize      : 15
+legend.labelspacing  : 0.12
