@@ -11,7 +11,7 @@ axes.labelpad  : 5
 axes.titlepad  : 7.0
 
 lines.linewidth : 2
-lines.markersize : 10
+lines.markersize : 7
 
 font.sans-serif : Helvetica
 
@@ -22,4 +22,5 @@ ytick.labelsize : 16
 
 legend.framealpha    : 0
 legend.edgecolor     : 0
-legend.fontsize      : 16
+legend.fontsize      : 12
+legend.labelspacing  : 0.2
