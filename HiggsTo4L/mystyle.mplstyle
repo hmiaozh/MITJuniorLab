@@ -1,0 +1,27 @@
+figure.figsize   : 12, 12
+figure.titlesize : 24 
+figure.subplot.left    : 0.125  ## the left side of the subplots of the figure
+figure.subplot.right   : 0.97    ## the right side of the subplots of the figure
+figure.subplot.bottom  : 0.03   ## the bottom of the subplots of the figure
+figure.subplot.top     : 0.90 
+figure.subplot.wspace  : 0.4 
+
+axes.titlesize : 20
+axes.labelsize : 16
+axes.labelpad  : 5
+axes.titlepad  : 7.0
+
+lines.linewidth : 2
+lines.markersize : 7
+
+font.sans-serif : Helvetica
+
+grid.alpha       :   0.25 
+
+xtick.labelsize : 16
+ytick.labelsize : 16
+
+legend.framealpha    : 0
+legend.edgecolor     : 0
+legend.fontsize      : 15
+legend.labelspacing  : 0.12
